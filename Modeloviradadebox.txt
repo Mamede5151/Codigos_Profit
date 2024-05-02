@@ -1,0 +1,2 @@
+((Close[1] < Opem[1]) e (Close [0] > Open[0]) e (Low < Media) e (Close > Media));
+((Close[1] > Opem[1]) e (Close [0] < Open[0]) e (Low > Media) e (Close > Media))
